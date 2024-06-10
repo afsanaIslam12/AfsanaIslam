@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web applications and Android apps within the Public Service domain. Primarily focused on ensuring public service through the Identification and Verification of individual citizens using biometric data.**
 
-- 🌱 I’m currently learning **Cypress, Playwright**
+- 🌱 I’m currently learning **Cypress, Playwright and other automation tools**
 
 <p align="left">
 </p>
